@@ -1,0 +1,1 @@
+A mirror repo for DroidCam Client releases hosted at https://www.dev47apps.com
